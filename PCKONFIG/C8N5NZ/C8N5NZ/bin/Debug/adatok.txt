@@ -1,0 +1,1 @@
+Gigabyte,35000,3,alaplap*Intel,55000,5,alaplap*Asus,45000,4,alaplap#Core i5,60000,4,processzor*Core i7,80000,5,processzor*Core i3,40000,3,processzor#DDR3,20000,3,ram*DDR2,10000,2,ram*DDR4,30000,5,ram#GTX 1060,60000,4,videokartya*GTX 1050 Ti,80000,5,videokartya*GT 1030,30000,3,videokartya

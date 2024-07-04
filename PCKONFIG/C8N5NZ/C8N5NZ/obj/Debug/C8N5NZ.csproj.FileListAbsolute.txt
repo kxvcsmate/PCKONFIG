@@ -1,0 +1,6 @@
+C:\Users\36301\source\repos\C8N5NZ\C8N5NZ\bin\Debug\C8N5NZ.exe.config
+C:\Users\36301\source\repos\C8N5NZ\C8N5NZ\bin\Debug\C8N5NZ.exe
+C:\Users\36301\source\repos\C8N5NZ\C8N5NZ\bin\Debug\C8N5NZ.pdb
+C:\Users\36301\source\repos\C8N5NZ\C8N5NZ\obj\Debug\C8N5NZ.csproj.CoreCompileInputs.cache
+C:\Users\36301\source\repos\C8N5NZ\C8N5NZ\obj\Debug\C8N5NZ.exe
+C:\Users\36301\source\repos\C8N5NZ\C8N5NZ\obj\Debug\C8N5NZ.pdb
